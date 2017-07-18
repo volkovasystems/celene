@@ -1,0 +1,2 @@
+# celene
+Ensure selenium server.

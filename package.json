@@ -1,0 +1,31 @@
+{
+  "name": "celene",
+  "version": "0.0.0",
+  "description": "Ensure selenium server.",
+  "main": "celene.js",
+  "scripts": {
+    "test": "mocha celene-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/celene.git"
+  },
+  "keywords": [
+    "ensure",
+    "selenium",
+    "server",
+    "celene"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/celene/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/celene#readme",
+  "dependencies": {
+    "dxcom": "^0.1.0",
+    "letgo": "^0.52.0",
+    "xw8": "^0.1.0",
+    "zelf": "^0.13.0"
+  }
+}
